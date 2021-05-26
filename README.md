@@ -8,7 +8,7 @@
 | 21.Merge Two Sorted Lists                                         | [py](<./python/21.Merge Two Sorted Lists.py>) |
 | 104.Maximum Depth of Binary Tree                                  | [py](<./python/104.Maximum Depth of Binary Tree.py>) |
 | 136.Single Number                                                 | [py](<./python/136.Single Number.py>) |
-| 150.Evaluate Reverse Polish Notation                              | [py](<./python/150. Evaluate Reverse Polish Notation.py>) |
+| 150.Evaluate Reverse Polish Notation                              | [py](<./python/150.Evaluate Reverse Polish Notation.py>) |
 | 169.Majority Element                                              | [py](<./python/169.Majority Element.py>) |
 | 206.Reverse Linked List                                           | [py](<./python/206.Reverse Linked List.py>) |
 | 226.Invert Binary Tree                                            | [py](<./python/226.Invert Binary Tree.py>) |
@@ -16,6 +16,10 @@
 | 283.Move Zeroes                                                   | [py](<./python/283.Move Zeroes.py>) |
 | 329.Longest Increasing Path in a Matrix                           | [py](<./python/329.Longest Increasing Path in a Matrix.py>) |
 | 349.Intersection of Two Arrays                                    | [py](<./python/349.Intersection of Two Arrays.py>) |
+| 383.Ransom Note                                                   | [py](<./python/383.Ransom Note.py>) |
+| 392.Is Subsequence                                                | [py](<./python/392.Is Subsequence.py>) |
+| 401.Binary Watch                                                  | [py](<./python/401.Binary Watch.py>) |
+| 409.Longest Palindrome                                            | [rs](<./rust/409.Longest Palindrome.rs>) |
 | 617.Merge Two Binary Trees                                        | [py](<./python/617.Merge Two Binary Trees.py>) |
 | 709.To Lower Case                                                 | [py](<./python/709.To Lower Case.py>) |
 | 922.Sort Array By Parity II                                       | [py](<./python/922.Sort Array By Parity II.py>) |
