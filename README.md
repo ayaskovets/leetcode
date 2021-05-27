@@ -28,3 +28,8 @@
 | 976.Largest Perimeter Triangle                                    | [py](<./python/976.Largest Perimeter Triangle.py>) |
 | 1030.Matrix Cells in Distance Order                               | [py](<./python/1030.Matrix Cells in Distance Order.py>) |
 | 1122.Relative Sort Array                                          | [py](<./python/1122.Relative Sort Array.py>) |
+| 1305.All Elements in Two Binary Search Trees                      | [py](<./python/1305.All Elements in Two Binary Search Trees.py>) |
+| 1329.Sort the Matrix Diagonally                                   | [py](<./python/1329.Sort the Matrix Diagonally.py>) |
+| 1356.Sort Integers by The Number of 1 Bits                        | [py](<./python/1356.Sort Integers by The Number of 1 Bits.py>) |
+| 1370.Increasing Decreasing String                                 | [py](<./python/1370.Increasing Decreasing String.py>) |
+| 1387.Sort Integers by The Power Value                             | [py](<./python/1387.Sort Integers by The Power Value.py>) |
