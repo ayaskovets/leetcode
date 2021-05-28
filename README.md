@@ -14,6 +14,7 @@
 | 226.Invert Binary Tree                                            | [py](<./python/226.Invert Binary Tree.py>) |
 | 242.Valid Anagram                                                 | [py](<./python/242.Valid Anagram.py>) |
 | 283.Move Zeroes                                                   | [py](<./python/283.Move Zeroes.py>) |
+| 318.Maximum Product of Word Lengths                               | [cpp](<./c++/318.Maximum Product of Word Lengths.cpp>) |
 | 329.Longest Increasing Path in a Matrix                           | [py](<./python/329.Longest Increasing Path in a Matrix.py>) |
 | 349.Intersection of Two Arrays                                    | [py](<./python/349.Intersection of Two Arrays.py>) |
 | 383.Ransom Note                                                   | [py](<./python/383.Ransom Note.py>) |
@@ -33,3 +34,6 @@
 | 1356.Sort Integers by The Number of 1 Bits                        | [py](<./python/1356.Sort Integers by The Number of 1 Bits.py>) |
 | 1370.Increasing Decreasing String                                 | [py](<./python/1370.Increasing Decreasing String.py>) |
 | 1387.Sort Integers by The Power Value                             | [py](<./python/1387.Sort Integers by The Power Value.py>) |
+| 1403.Minimum Subsequence in Non-Increasing Order                  | [py](<./python/1403.Minimum Subsequence in Non-Increasing Order.py>) |
+| 1451.Rearrange Words in a Sentence                                | [py](<./python/1451.Rearrange Words in a Sentence.py>) |
+| 1480.Running Sum of 1d Array                                      | [py](<./python/1480.Running Sum of 1d Array.py>) |
