@@ -11,6 +11,7 @@
 | 104.Maximum Depth of Binary Tree                                  | [py](<./python/104.Maximum Depth of Binary Tree.py>) |
 | 136.Single Number                                                 | [py](<./python/136.Single Number.py>) |
 | 150.Evaluate Reverse Polish Notation                              | [py](<./python/150.Evaluate Reverse Polish Notation.py>) |
+| 164.Maximum Gap                                                   | [cpp](<./c++/164.Maximum Gap.cpp>) |
 | 169.Majority Element                                              | [py](<./python/169.Majority Element.py>) |
 | 206.Reverse Linked List                                           | [py](<./python/206.Reverse Linked List.py>) |
 | 226.Invert Binary Tree                                            | [py](<./python/226.Invert Binary Tree.py>) |
@@ -43,3 +44,8 @@
 | 1502.Can Make Arithmetic Progression From Sequence                | [py](<./python/1502.Can Make Arithmetic Progression From Sequence.py>) |
 | 1508.Range Sum of Sorted Subarray Sums                            | [py](<./python/1508.Range Sum of Sorted Subarray Sums.py>) |
 | 1528.Shuffle String                                               | [py](<./python/1528.Shuffle String.py>) |
+| 1561.Maximum Number of Coins You Can Get                          | [py](<./python/1561.Maximum Number of Coins You Can Get.py>) |
+| 1630.Arithmetic Subarrays                                         | [py](<./python/1630.Arithmetic Subarrays.py>) |
+| 1636.Sort Array by Increasing Frequency                           | [py](<./python/1636.Sort Array by Increasing Frequency.py>) |
+| 1637.Widest Vertical Area Between Two Points Containing No Points | [py](<./python/1637.Widest Vertical Area Between Two Points Containing No Points.py>) |
+| 1640.Check Array Formation Through Concatenation                  | [py](<./python/1640.Check Array Formation Through Concatenation.py>) |
