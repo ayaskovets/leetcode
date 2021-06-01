@@ -32,6 +32,7 @@
 | 976.Largest Perimeter Triangle                                    | [py](<./python/976.Largest Perimeter Triangle.py>) |
 | 1030.Matrix Cells in Distance Order                               | [py](<./python/1030.Matrix Cells in Distance Order.py>) |
 | 1122.Relative Sort Array                                          | [py](<./python/1122.Relative Sort Array.py>) |
+| 1268.Search Suggestions System                                    | [py](<./python/1268.Search Suggestions System.py>) |
 | 1305.All Elements in Two Binary Search Trees                      | [py](<./python/1305.All Elements in Two Binary Search Trees.py>) |
 | 1329.Sort the Matrix Diagonally                                   | [py](<./python/1329.Sort the Matrix Diagonally.py>) |
 | 1356.Sort Integers by The Number of 1 Bits                        | [py](<./python/1356.Sort Integers by The Number of 1 Bits.py>) |
@@ -49,3 +50,6 @@
 | 1636.Sort Array by Increasing Frequency                           | [py](<./python/1636.Sort Array by Increasing Frequency.py>) |
 | 1637.Widest Vertical Area Between Two Points Containing No Points | [py](<./python/1637.Widest Vertical Area Between Two Points Containing No Points.py>) |
 | 1640.Check Array Formation Through Concatenation                  | [py](<./python/1640.Check Array Formation Through Concatenation.py>) |
+| 1689.Partitioning Into Minimum Number Of Deci-Binary Numbers      | [rs](<./rust/1689.Partitioning Into Minimum Number Of Deci-Binary Numbers.rs>) |
+| 1695.Maximum Erasure Value                                        | [cpp](<./c++/1695.Maximum Erasure Value.cpp>) |
+| 1710.Maximum Units on a Truck                                     | [py](<./python/1710.Maximum Units on a Truck.py>) |
