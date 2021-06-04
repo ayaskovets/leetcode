@@ -42,6 +42,7 @@
 | 1387.Sort Integers by The Power Value                                                             | [py](<./python/1387.Sort Integers by The Power Value.py>) |
 | 1403.Minimum Subsequence in Non-Increasing Order                                                  | [py](<./python/1403.Minimum Subsequence in Non-Increasing Order.py>) |
 | 1451.Rearrange Words in a Sentence                                                                | [py](<./python/1451.Rearrange Words in a Sentence.py>) |
+| 1465.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts                           | [cpp](<./c++/1465.Maximum Area of a Piece of Cake After Horizontal and Vertical Cuts.cpp>) |
 | 1480.Running Sum of 1d Array                                                                      | [py](<./python/1480.Running Sum of 1d Array.py>) |
 | 1491.Average Salary Excluding the Minimum and Maximum Salary                                      | [py](<./python/1491.Average Salary Excluding the Minimum and Maximum Salary.py>) |
 | 1502.Can Make Arithmetic Progression From Sequence                                                | [py](<./python/1502.Can Make Arithmetic Progression From Sequence.py>) |
