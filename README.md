@@ -10,6 +10,7 @@
 | 52.N-Queens I                                                                                     | [cpp](<./c++/52.N-Queens II.cpp>) |
 | 97.Interleaving String                                                                            | [cpp](<./c++/97.Interleaving String.cpp>) |
 | 104.Maximum Depth of Binary Tree                                                                  | [py](<./python/104.Maximum Depth of Binary Tree.py>) |
+| 128.Longest Consecutive Sequence                                                                  | [cpp](<./c++/128.Longest Consecutive Sequence.cpp>) |
 | 136.Single Number                                                                                 | [py](<./python/136.Single Number.py>) |
 | 150.Evaluate Reverse Polish Notation                                                              | [py](<./python/150.Evaluate Reverse Polish Notation.py>) |
 | 164.Maximum Gap                                                                                   | [cpp](<./c++/164.Maximum Gap.cpp>) |
@@ -40,6 +41,7 @@
 | 1329.Sort the Matrix Diagonally                                                                   | [py](<./python/1329.Sort the Matrix Diagonally.py>) |
 | 1356.Sort Integers by The Number of 1 Bits                                                        | [py](<./python/1356.Sort Integers by The Number of 1 Bits.py>) |
 | 1370.Increasing Decreasing String                                                                 | [py](<./python/1370.Increasing Decreasing String.py>) |
+| 1383.Maximum Performance of a Team                                                                | [cpp](<./c++/1383.Maximum Performance of a Team.cpp>) |
 | 1387.Sort Integers by The Power Value                                                             | [py](<./python/1387.Sort Integers by The Power Value.py>) |
 | 1403.Minimum Subsequence in Non-Increasing Order                                                  | [py](<./python/1403.Minimum Subsequence in Non-Increasing Order.py>) |
 | 1451.Rearrange Words in a Sentence                                                                | [py](<./python/1451.Rearrange Words in a Sentence.py>) |
