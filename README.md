@@ -29,6 +29,7 @@
 | 617.Merge Two Binary Trees                                                                        | [py](<./python/617.Merge Two Binary Trees.py>) |
 | 695.Max Area of Island                                                                            | [cpp](<./c++/695.Max Area of Island.cpp>) |
 | 709.To Lower Case                                                                                 | [py](<./python/709.To Lower Case.py>) |
+| 746.Min Cost Climbing Stairs                                                                      | [cpp](<./c++/746.Min Cost Climbing Stairs.cpp>) |
 | 752.Open the Lock                                                                                 | [cpp](<./c++/752.Open the Lock.cpp>) |
 | 922.Sort Array By Parity II                                                                       | [py](<./python/922.Sort Array By Parity II.py>) |
 | 969.Pancake Sorting                                                                               | [py](<./python/969.Pancake Sorting.py>) |
