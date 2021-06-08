@@ -10,6 +10,7 @@
 | 52.N-Queens I                                                                                     | [cpp](<./c++/52.N-Queens II.cpp>) |
 | 97.Interleaving String                                                                            | [cpp](<./c++/97.Interleaving String.cpp>) |
 | 104.Maximum Depth of Binary Tree                                                                  | [py](<./python/104.Maximum Depth of Binary Tree.py>) |
+| 105.Construct Binary Tree from Preorder and Inorder Traversal                                     | [c](<./c/105.Construct Binary Tree from Preorder and Inorder Traversal.c>) |
 | 128.Longest Consecutive Sequence                                                                  | [cpp](<./c++/128.Longest Consecutive Sequence.cpp>) |
 | 136.Single Number                                                                                 | [py](<./python/136.Single Number.py>) |
 | 150.Evaluate Reverse Polish Notation                                                              | [py](<./python/150.Evaluate Reverse Polish Notation.py>) |
