@@ -8,6 +8,8 @@
 | 21.Merge Two Sorted Lists                                                                         | [py](<./python/21.Merge Two Sorted Lists.py>) |
 | 51.N-Queens                                                                                       | [cpp](<./c++/51.N-Queens.cpp>) |
 | 52.N-Queens I                                                                                     | [cpp](<./c++/52.N-Queens II.cpp>) |
+| 45.Jump Game II                                                                                   | [go](<./go/45.Jump Game II.go>) |
+| 55.Jump Game                                                                                      | [go](<./go/55.Jump Game.go>) |
 | 97.Interleaving String                                                                            | [cpp](<./c++/97.Interleaving String.cpp>) |
 | 104.Maximum Depth of Binary Tree                                                                  | [py](<./python/104.Maximum Depth of Binary Tree.py>) |
 | 105.Construct Binary Tree from Preorder and Inorder Traversal                                     | [c](<./c/105.Construct Binary Tree from Preorder and Inorder Traversal.c>) |
@@ -40,7 +42,9 @@
 | 1122.Relative Sort Array                                                                          | [py](<./python/1122.Relative Sort Array.py>) |
 | 1268.Search Suggestions System                                                                    | [py](<./python/1268.Search Suggestions System.py>) |
 | 1305.All Elements in Two Binary Search Trees                                                      | [py](<./python/1305.All Elements in Two Binary Search Trees.py>) |
+| 1306.Jump Game III                                                                                | [go](<./go/1306.Jump Game III.go>) |
 | 1329.Sort the Matrix Diagonally                                                                   | [py](<./python/1329.Sort the Matrix Diagonally.py>) |
+| 1345.Jump Game IV                                                                                 | [go](<./1345.Jump Game IV.go>) |
 | 1356.Sort Integers by The Number of 1 Bits                                                        | [py](<./python/1356.Sort Integers by The Number of 1 Bits.py>) |
 | 1370.Increasing Decreasing String                                                                 | [py](<./python/1370.Increasing Decreasing String.py>) |
 | 1383.Maximum Performance of a Team                                                                | [cpp](<./c++/1383.Maximum Performance of a Team.cpp>) |
@@ -60,4 +64,5 @@
 | 1640.Check Array Formation Through Concatenation                                                  | [py](<./python/1640.Check Array Formation Through Concatenation.py>) |
 | 1689.Partitioning Into Minimum Number Of Deci-Binary Numbers                                      | [rs](<./rust/1689.Partitioning Into Minimum Number Of Deci-Binary Numbers.rs>) |
 | 1695.Maximum Erasure Value                                                                        | [cpp](<./c++/1695.Maximum Erasure Value.cpp>) |
+| 1696.Jump Game VI                                                                                 | [go](<./go/1696.Jump Game VI.go>) |
 | 1710.Maximum Units on a Truck                                                                     | [py](<./python/1710.Maximum Units on a Truck.py>) |
