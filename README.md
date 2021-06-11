@@ -64,6 +64,7 @@
 | 1637.Widest Vertical Area Between Two Points Containing No Points                                 | [py](<./python/1637.Widest Vertical Area Between Two Points Containing No Points.py>) |
 | 1640.Check Array Formation Through Concatenation                                                  | [py](<./python/1640.Check Array Formation Through Concatenation.py>) |
 | 1689.Partitioning Into Minimum Number Of Deci-Binary Numbers                                      | [rs](<./rust/1689.Partitioning Into Minimum Number Of Deci-Binary Numbers.rs>) |
+| 1690.Stone Game VII                                                                               | [cpp](<./c++/1690.Stone Game VII.cpp>) |
 | 1695.Maximum Erasure Value                                                                        | [cpp](<./c++/1695.Maximum Erasure Value.cpp>) |
 | 1696.Jump Game VI                                                                                 | [go](<./go/1696.Jump Game VI.go>) |
 | 1710.Maximum Units on a Truck                                                                     | [py](<./python/1710.Maximum Units on a Truck.py>) |
