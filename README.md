@@ -35,6 +35,7 @@
 | 729.My Calendar I                                                                                 | [cpp](<./c++/729.My Calendar I.cpp>) |
 | 746.Min Cost Climbing Stairs                                                                      | [cpp](<./c++/746.Min Cost Climbing Stairs.cpp>) |
 | 752.Open the Lock                                                                                 | [cpp](<./c++/752.Open the Lock.cpp>) |
+| 871.Minimum Number of Refueling Stops                                                             | [cpp](<./c++/871.Minimum Number of Refueling Stops.cpp>) |
 | 922.Sort Array By Parity II                                                                       | [py](<./python/922.Sort Array By Parity II.py>) |
 | 969.Pancake Sorting                                                                               | [py](<./python/969.Pancake Sorting.py>) |
 | 973.K Closest Points to Origin                                                                    | [py](<./python/973.K Closest Points to Origin.py>) |
