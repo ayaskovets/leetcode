@@ -5,6 +5,7 @@
 | 1.Two Sum                                                                                         | [py](<./python/1.Two Sum.py>) |
 | 2.Add Two Numbers                                                                                 | [py](<./python/2.Add Two Numbers.py>) |
 | 3.Longest Substring Without Repeating Characters                                                  | [py](<./python/3.Longest Substring Without Repeating Characters.py>) |
+| 8.String to Integer (atoi)                                                                        | [cpp](<./c++/8.String to Integer (atoi).cpp>) |
 | 21.Merge Two Sorted Lists                                                                         | [py](<./python/21.Merge Two Sorted Lists.py>) |
 | 51.N-Queens                                                                                       | [cpp](<./c++/51.N-Queens.cpp>) |
 | 52.N-Queens I                                                                                     | [cpp](<./c++/52.N-Queens II.cpp>) |
